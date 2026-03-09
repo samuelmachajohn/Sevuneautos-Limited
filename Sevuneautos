@@ -1,0 +1,12 @@
+/sevuneautos
+├─ index.html        → Homepage
+├─ cars.html         → Cars for Sale
+├─ sell.html         → Sell Your Car
+├─ about.html        → About Us
+├─ contact.html      → Contact Us
+├─ css/
+│   └─ style.css     → Website styling
+├─ images/
+│   ├─ logo.png      → Main logo
+│   ├─ favicon.png   → Browser icon
+│   └─ car images    → Car listings
