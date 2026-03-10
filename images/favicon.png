@@ -1,0 +1,25 @@
+Add to <head>:
+<link rel="icon" href="images/favicon.png" type="image/png">
+Brand Colors
+Primary: Gold → #FFD700
+Secondary: Black → #000000
+Background: White → #FFFFFF
+Example CSS snippet:
+body {
+  background-color: #FFFFFF;
+  font-family: Arial, sans-serif;
+  color: #000000;
+}
+
+header, .announcement-banner {
+  background-color: #000000;
+  color: #FFD700;
+}
+
+button.cta {
+  background-color: #FFD700;
+  color: #000000;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
