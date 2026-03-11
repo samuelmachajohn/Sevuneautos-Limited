@@ -1,0 +1,17 @@
+<div class="announcement-banner">
+  🚗 Quality Vehicles | Importation | Inspection | Nationwide Delivery
+  <a href="https://wa.me/2347055589030" class="cta">Contact Us</a>
+</div<div> class="announcement-banner">
+  Message: “Quality Vehicles | Importation | Inspection | Nationwide Delivery”
+Button Label: “Contact Us”
+Link: WhatsApp link → https://wa.me/2347055589030
+CSS:
+.announcement-banner {
+  background-color: #000000;
+  color: #FFD700;
+  text-align: center;
+  padding: 10px 0;
+}
+.announcement-banner .cta {
+  margin-left: 20px;
+}
