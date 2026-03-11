@@ -1,10 +1,8 @@
 Place in header (<header> in HTML)
 <img src="images/logo.png" alt="Sevune Auto’s Limited logo" height="60">
-
 File: /images/favicon.png
 Add to <head>:
 <link rel="icon" href="images/favicon.png" type="image/png">
-
 Brand Colors
 Primary: Gold → #FFD700
 Secondary: Black → #000000
