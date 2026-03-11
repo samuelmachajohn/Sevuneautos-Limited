@@ -10,7 +10,6 @@ Primary: Gold → #FFD700
 Secondary: Black → #000000
 Background: White → #FFFFFF
 
-Example CSS snippet:
 body {
   background-color: #FFFFFF;
   font-family: Arial, sans-serif;
